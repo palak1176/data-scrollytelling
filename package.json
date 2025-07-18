@@ -1,9 +1,9 @@
 {
-  "name": "kwk-scrollytelling-template",
+  "name": "data-scrollytelling",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jasminesamra.github.io/kwk-scrollytelling-template",
+  "homepage": "https://palak1176.github.io/data-scrollytelling",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
