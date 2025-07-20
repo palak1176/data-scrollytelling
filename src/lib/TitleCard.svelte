@@ -1,17 +1,16 @@
 <script>
-    let { title, subtitle } = $props();
+    let { title } = $props();
 </script>
 
 <div class="title-card">
     <div class="content">
-        <h1>{title}</h1>
-        <p>{subtitle}</p>
+        <h1>{title}</h1>       
     </div>
 </div>
 
 <style>
     .title-card {
-        background-color: #007052;
+        background-color:#e4b4b4;
         height: 100vh;
         display: flex;
         justify-content: center;
@@ -24,33 +23,25 @@
 
     .content {
         max-width: 700px;
-        background-color: #034c36;
+        background-color: #870819;
         padding: 2rem;
-        border: 6px solid #e3ff00;
+        border: 6px solid #dd747d;
         border-radius: 2rem;
-        box-shadow: 16px 16px #188f70;
+        box-shadow: 16px 16px #be3048;
     }
 
     h1 {
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-size: 3rem;
         margin: 0;
-        color: #e3ff00;
-        text-shadow: 1px 1px 0 #007052;
-    }
-
-    p {
-        font-size: 1.3rem;
-        color: #f7f5eb;
-        margin-top: 1rem;
+        color: #FBFFF1;
+        text-shadow: 1px 1px 0 #3066BE;
     }
 
     @media (max-width: 600px) {
         h1 {
             font-size: 2.2rem;
         }
-
-        p {
-            font-size: 1.1rem;
-        }
+       
     }
 </style>
