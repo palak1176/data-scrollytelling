@@ -32,7 +32,7 @@
             <ArticleText>
             <h3>The gap isn't about how hard people work. It's about what they've been given the chance to work with. 
             It's about access to jobs, banks, schools, and safe neighborhoods. It's about decades of policy decisions 
-            that left some communities with fewer tools to build wealth — and others with more.</h3>
+            that left some communities with fewer tools to build wealth and others with more.</h3>
             </ArticleText>            
         {/snippet}
     </Scroller>

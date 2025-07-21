@@ -18,9 +18,9 @@
 
         {#snippet scrolly()}
             <ArticleText>
-              <h3>In 63120, the median home value was just $55,200 for owner-occupied homes with a mortgage in 2023. In 63139, 
-                it was nearly four times higher at $206,500. Even when no mortgage is involved, the disparity remains: 
-                $50,500 versus $183,000.</h3>                
+              <h3>You can even see it in the homes. In 63120, the median home value was just $55,200 for owner-occupied 
+                homes with a mortgage in 2023. In 63139, it was nearly four times higher at $206,500. Even when no mortgage 
+                is involved, the disparity remains: $50,500 versus $183,000.</h3>                
             </ArticleText>
             <ArticleText>
               <h3>But this isn't just about numbers on Zillow. A higher home value means more generational wealth — the 
@@ -36,8 +36,8 @@
             <ArticleText>
             <h3>And ownership tells another part of the story. In 63120, just 44.6% of residents own their homes. In 63139,
                 it's 60%. Homeownership is more than just a financial asset — it's a source of stability, generational wealth, 
-                and community investment. Families who own their homes are more likely to stay, to build equity, to influence 
-                local policy, and to weather financial storms.</h3> 
+                and community investment. Families who own their homes are more likely to stay, to build equity, and to influence 
+                local policy.</h3> 
             </ArticleText>     
         {/snippet}
      </Scroller>  

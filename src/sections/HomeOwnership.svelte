@@ -26,7 +26,7 @@
                 another gains ground.</h3>
             </ArticleText>  
             <ArticleText>
-            <h3>Because when fewer people can buy homes, fewer people can build wealth. And when that's repeated over decades, 
+            <h3>When fewer people can buy homes, fewer people can build wealth. And when that's repeated over decades, 
                 the distance between two ZIP codes becomes more than geography — it becomes generational.</h3>
             </ArticleText> 
         {/snippet}

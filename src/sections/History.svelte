@@ -6,6 +6,7 @@
 <div>
     <Scroller layout="right">
         {#snippet sticky()}
+            <!-- svelte-ignore a11y_missing_attribute -->
             <img class="redlining"src="redlining.png">
             <a href="https://reports.mysidewalk.com/59cc324517#c-485819">
             St. Louis Redlining District Designation in 1937 Overlapped with Non-White Population Percentages</a>
@@ -33,7 +34,7 @@
                 </ArticleText> 
             <ArticleText>
             <h3>Meanwhile, just south of Delmar, the story was different. Loans were more accessible. Homes 
-                gained value. Wealth grew — and in many cases, was passed down. Decades later, the legacy 
+                gained value. Wealth grew, and in many cases, was passed down. Decades later, the legacy 
                 of those policies is still visible in the data.</h3>                
                 </ArticleText>
                 <!-- <a href="https://www.thesaintlouisstory.org/history-1/1935-redlining">

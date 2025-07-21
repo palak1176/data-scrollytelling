@@ -20,8 +20,8 @@
             <ArticleText>
               <h3>And perhaps the clearest indicator of all — poverty. In 63120, 30.2% of residents lived below the poverty 
                 line in 2023. That's nearly 1 in 3 people. Just across Delmar, in 63139, the poverty rate was just 7.3%. 
-                That's not just a number — that's fewer children going to school hungry, fewer parents juggling multiple jobs, 
-                fewer seniors choosing between medicine and rent. It's a daily difference in stress, in stability, in dignity.</h3>                
+                That's not just a number — that's fewer children going to school hungry, fewer parents juggling multiple jobs, and 
+                fewer seniors choosing between medicine and rent. It's a daily difference in stress, in stability, and in dignity.</h3>                
             </ArticleText>
             <ArticleText>
             <h3>But even here, even in a ZIP code shaped by decades of disinvestment, there are signs of resilience. From 2016 to 
