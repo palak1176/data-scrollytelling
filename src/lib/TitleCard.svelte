@@ -10,7 +10,7 @@
 
 <style>
     .title-card {
-        background-color:#e4b4b4;
+        background-color:#f7f5eb;
         height: 100vh;
         display: flex;
         justify-content: center;

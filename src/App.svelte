@@ -9,18 +9,19 @@
   import IntersectionObserverSectionCard from "./sections/IntersectionObserverSectionCard.svelte";
   import IntersectionObserverListExample from "./sections/IntersectionObserverListExample.svelte";
   import Introduction from "./sections/Introduction.svelte";
+  import History from "./sections/History.svelte"
 </script>
 
 <main>
   <Introduction />
   <TitleSection />
-  <RightAlignedExample />
+  <History />
+  <!-- <RightAlignedExample />
   <LeftAlignedExample />
   <ImageExample />
-
   <IntersectionObserverSectionCard />
   <InteresectionObserverBasicExample />
   <IntersectionObserverAlertExample />
   <DisappearingDuckExample />
-  <IntersectionObserverListExample />
+  <IntersectionObserverListExample /> -->
 </main>
