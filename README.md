@@ -1,22 +1,10 @@
 # KWK Scrollytelling template
 
-This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
-
-## Demo
-See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/)!
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
-
-## How to clone the repo
-On this repo's homepage in GitHub, click the `Use this template` button. Select the option to create a new repository. This will create a new repo under your GitHub account.
-
-Navigate to your new copy of this template in your GitHub profile. 
-
-Clone your new repo locally and `cd` into it. 
-
-Run `npm install` and then `npm run dev` to spin up the project locally. Then, start making changes! You can use this repo as a starting point for your own final project or simply as an example. 
-
 ## Credit
 Repo created using vite (`npm create vite@6`)
+
+## AI Usage
+I used ChatGPT at the very beginning of the research process to explore the Delmar Divide before using more reliable sources to gather information.
+
+## Thanks
+Thank you to the Kode With Klossy team and the Black Wealth Data Center team for organizing this challenge and providing so many useful resources!
