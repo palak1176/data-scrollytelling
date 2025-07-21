@@ -32,7 +32,13 @@
             <h3>In contrast, low property values can trap families in a cycle. Their home — often their largest asset — 
                 doesn't appreciate the way it does across town. That limits both their financial growth and their ability 
                 to pass wealth on to the next generation.</h3>
-            </ArticleText>            
+            </ArticleText>
+            <ArticleText>
+            <h3>And ownership tells another part of the story. In 63120, just 44.6% of residents own their homes. In 63139,
+                it's 60%. Homeownership is more than just a financial asset — it's a source of stability, generational wealth, 
+                and community investment. Families who own their homes are more likely to stay, to build equity, to influence 
+                local policy, and to weather financial storms.</h3> 
+            </ArticleText>     
         {/snippet}
      </Scroller>  
 </div>     
